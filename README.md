@@ -66,10 +66,6 @@ customer-segmentation-sql/
 
 ---
 
-## 📬 Contact
-
-For questions or collaboration:
-**[Your Name]** – [your.email@example.com] – [LinkedIn](https://linkedin.com/in/yourprofile)
 
 
 
