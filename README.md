@@ -33,15 +33,6 @@ customer-segmentation-sql/
 │ └── rfm_segment_chart.png
 └── README.md
 
-
----
-
-## 📁 Key Files
-
-- 📄 [`rfm_analysis_bigquery.sql`](queries/rfm_analysis_bigquery.sql) — BigQuery SQL script for RFM segmentation
-- 📊 [`sales_sample.csv`](data/sales_sample.csv) — Sample transaction data used for analysis
-- 🖼️ [`rfm_segment_chart.png`](images/rfm_segment_chart.png) — Pie chart of customer segmentation
-
 ---
 
 ## 📈 Methodology
